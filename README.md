@@ -24,10 +24,7 @@ Welcome to my GitHub profile! I am a **Data Scientist** passionate about extract
 - **MLOps**: Streamlining ML model deployment and monitoring.
 - **Data Visualization**: Creating insightful and interactive dashboards.
 
-## 📈 GitHub Stats
-![Aime Bamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimebamba&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
-- LinkedIn: [Aime Bamba](https://www.linkedin.com/in/aime-bambarinkenga-453926202/)
+- LinkedIn: [Aime B](https://www.linkedin.com/in/aime-bambarinkenga-453926202/)
 
 Let's work together to push the boundaries of data science, AI, and data engineering!
