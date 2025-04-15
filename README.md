@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a **Data Scientist** passionate about extracting insights from data, building predictive models, and exploring the cutting edge of Artificial Intelligence. I am particularly interested in **Large Language Models (LLMs)**, their integration into applications, fine-tuning, and building robust **data pipelines** to support AI workflows.
 
 ## 🚀 About Me
-- 🔭 Currently diving deep into AI research, data engineering, and building projects involving LLMs.
+- 🔭 Currently diving deep into AI, data engineering, and building projects involving LLMs.
 - 🌱 Learning about LLM fine-tuning, AI application development, and creating scalable data pipelines with orchestration tools.
 - 🤝 Open to collaborating on data science, machine learning, AI-driven, and data engineering projects.
 - 💬 Ask me about data analysis, machine learning, or data pipeline orchestration.
